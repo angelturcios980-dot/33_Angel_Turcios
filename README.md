@@ -17,9 +17,10 @@ Este proyecto es una muestra para aprender a crear archivos README.md usando Mar
 
 > "La simplicidad es la máxima sofisticación." – Leonardo da Vinci
 
-Más información en [GitHub](https://github.com)
+Más información en [Instagram](www.instagram.com)
 
-![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aaf788df-bc35-40bb-ad14-b49fa7a49390" />
+
 
 ```python
 # Ejemplo de código en Python
