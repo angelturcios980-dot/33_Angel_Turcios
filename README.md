@@ -19,7 +19,8 @@ Este proyecto es una muestra para aprender a crear archivos README.md usando Mar
 
 Más información en [Instagram](www.instagram.com)
 
-> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aaf788df-bc35-40bb-ad14-b49fa7a49390" />
+> <img width="351" height="261" alt="image" src="https://github.com/user-attachments/assets/fb852744-eb9d-454e-96ab-313d36bcca1a" />
+
 
 
 ```python
